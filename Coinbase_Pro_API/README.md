@@ -33,6 +33,8 @@ Seleccionamos DONE.
 Nos mostrara la pantalla resumen de nuestras API Keys y aparecerá la public key de la API Key que acabamos de crear. Es la que se encuentra entre el nombre del portfolio y el nickname.
 Almacenamos este valor y ya tendríamos todos los datos necesarios para conectarnos a la API de Coinbase Pro.
 
+Para más información visita la documentación de la API de Coinbase Pro https://docs.pro.coinbase.com/
+
 ##BTC-Dollar-Cost-Average.py
 
 Si alguna vez has visto aplicaciones o webs que te permiten hacer DCA comprando cryptos y te ha parecido interesante este proyecto es para ti.

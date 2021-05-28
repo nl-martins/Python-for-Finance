@@ -44,5 +44,9 @@ Si alguna vez has visto aplicaciones o webs que te permiten hacer DCA comprando 
 Concretamente este script emula un DCA, comprando Bitcoin cada hora si su precio se encuentra por debajo de un precio límite establecido.
 Este script se puede modificar para que funcione con cualquier crypto y monto, siempre que supere el mínimo establecido por Coinbase pro.
 
-Se aceptan sugerencias de estrategias de trading para implementarlas en futuros proyectos ⚙️
+## Standard_Buy_&_Sell.py
 
+Si te interesa saber como comprar o vender cryptos sin siquiera abrir Coinbase Pro este es tu proyecto.
+
+
+## Se aceptan sugerencias de estrategias de trading para implementarlas en futuros proyectos ⚙️
